@@ -17,7 +17,7 @@ HandleError> {
     }
     
     fn get_handler_action(&self) -> String {
-        todo!()
+        "user_created".to_owned()
     } 
 } 
  
